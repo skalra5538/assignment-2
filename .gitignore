@@ -1,10 +1,9 @@
 #Name= Sachin Kalra 
 #Author= Madiha Kazmi
-#Date created= 10 october 2022
-#Date last modified= 10 october 2022
+#Date created= 6 november  2022
+#Date last modified= 10 november 2022
 # Purpose:
-# this program will be used by the arnold amazing's branch for taking the orders and for  
-# the calculution of discounts thay they have available for their customers 
+# this program will be used by the arnold amazing's branch for taking the orders.
 #first we will ask the user to input his or her details
 print ("welcome to the Arnold's Amazing Eats II .we are here to serve you.")
 print("/nThe purpose of this branch is to fulfill the needs of customers what they expected from us.")
